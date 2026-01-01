@@ -13,3 +13,6 @@
 - https://argo-cd.readthedocs.io/en/stable/
 
 - kubectl port-forward -n argocd svc/argocd-server 8080:443
+
+
+- sudo ctr image pull docker.io/siddharth67/highway-animation:blue
